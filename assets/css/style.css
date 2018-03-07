@@ -33,12 +33,4 @@ h2 {
 
 
 .glyphicon {
-    position: relative;
-    text-align: center;
-    top: 1px;
-    display: inline-block;
-    font-family: 'Glyphicons Halflings';
-    font-style: normal;
-    font-weight: 400;
-    height: 30px;
-    margin: 5px;
+    margin-right: 7px;
