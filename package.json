@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/HarryCaveMan/Hot-Restaurant/issues"
   },
-  "homepage": "https://github.com/HarryCaveMan/Hot-Restaurant#readme"
+  "homepage": "https://github.com/HarryCaveMan/Hot-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
 }
