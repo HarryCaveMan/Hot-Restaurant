@@ -27,6 +27,10 @@ h2 {
   
 }
 
+#main-form {
+  padding: 10px;
+}
+
 #waiting-list {
   margin-top: 40px;
 }
